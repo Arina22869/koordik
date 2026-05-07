@@ -8,7 +8,7 @@ from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton, ChatMember
 from aiogram.enums import ParseMode
 
 # ===== НАСТРОЙКИ =====
-BOT_TOKEN = "8772848542:AAG1IXVDw6MMAGtjyVjh8Mm068q5VnWeteM"  # ← ВСТАВЬТЕ СВОЙ ТОКЕН
+BOT_TOKEN = "8772848542:AAG1IXVDw6MMAGtjyVjh8MmO68q5VnWeteM"  # ← ВСТАВЬТЕ СВОЙ ТОКЕН
 
 # Вопросы для знакомства
 QUESTIONS = [
